@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-color: #dac0ff;
+    height: 105vh;
+    border-radius: 10px;
+}
+
+.heading {
+    color: #690cb0;
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.paragraph {
+    color: #3e4c59;
+    font-family: "Roboto";
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.image {
+    height: 15vh;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.paragraph-2 {
+    color: #3e4c59;
+    font-family: "Roboto";
+    font-size: 25px;
+    margin-left: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+
+.card-container {
+    background-color: #f2ebfe;
+    height: 45vh;
+    margin: 20px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: #9aa5b1;
+}
+
+.paragraph-3 {
+    color: #3e4c59;
+    font-family: "Roboto";
+    font-size: 18px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.text-area {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.paragraph-4 {
+    color: #3e4c59;
+    font-family: "Roboto";
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.button-element {
+    background-color: #690cb0;
+    color: white;
+    font-family: "Roboto";
+    font-size: 18px;
+    margin-left: 20px;
+    height: 35px;
+    margin-top: 10px;
+
+}
+
+.button-element-2 {
+    background-color: #ffffff;
+    font-family: "Roboto";
+    font-size: 18px;
+    margin-left: 20px;
+    height: 35px;
+    margin-top: 10px;
+}
+
+.unselectable {
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+    color: #cc0000;
+}
